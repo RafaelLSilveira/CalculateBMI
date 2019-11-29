@@ -1,3 +1,3 @@
-# CalculateIMC
+# CalculateBMI
 Calulate BMI by a person
-This project calculates a person's BMI considering sex difference.
+This project calculates a person's BMI (brazilian IMC) considering sex difference.
