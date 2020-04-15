@@ -1,0 +1,11 @@
+/home/syntesis/projects/CalculateBMI/bin/Debug/netcoreapp2.1/csharpDia5.deps.json
+/home/syntesis/projects/CalculateBMI/bin/Debug/netcoreapp2.1/csharpDia5.runtimeconfig.json
+/home/syntesis/projects/CalculateBMI/bin/Debug/netcoreapp2.1/csharpDia5.runtimeconfig.dev.json
+/home/syntesis/projects/CalculateBMI/bin/Debug/netcoreapp2.1/csharpDia5.dll
+/home/syntesis/projects/CalculateBMI/bin/Debug/netcoreapp2.1/csharpDia5.pdb
+/home/syntesis/projects/CalculateBMI/obj/Debug/netcoreapp2.1/csharpDia5.csprojAssemblyReference.cache
+/home/syntesis/projects/CalculateBMI/obj/Debug/netcoreapp2.1/csharpDia5.csproj.CoreCompileInputs.cache
+/home/syntesis/projects/CalculateBMI/obj/Debug/netcoreapp2.1/csharpDia5.AssemblyInfoInputs.cache
+/home/syntesis/projects/CalculateBMI/obj/Debug/netcoreapp2.1/csharpDia5.AssemblyInfo.cs
+/home/syntesis/projects/CalculateBMI/obj/Debug/netcoreapp2.1/csharpDia5.dll
+/home/syntesis/projects/CalculateBMI/obj/Debug/netcoreapp2.1/csharpDia5.pdb

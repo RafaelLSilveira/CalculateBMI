@@ -17,13 +17,13 @@ namespace csharpDia5
             Escrever("\nDigite seu Nome: ");
             nomePessoa = Ler();
 
-            Escrever("Digite sua Data de Nascimento: (dd-mm-aaaa) ");
+            Escrever("Digite sua Data de Nascimento: (aaaa-MM-dd) ");
             dataNascimento = DateTime.Parse(Ler());
 
-            Escrever("Digite sua Altura: (ex: 1,50)");
+            Escrever("Digite sua Altura: (ex: 1.50)");
             altura = double.Parse(Ler());
 
-            Escrever("Digite sue Peso: (ex: 82,4)");
+            Escrever("Digite sue Peso: (ex: 82.4)");
             peso = double.Parse(Ler());
 
             PessoaIMC pessoa;
