@@ -14,7 +14,5 @@ namespace csharpDia5
             double imc = CalcularIMC();
             return imc < 20.7 ? "Abaixo do peso ideal" : (imc >= 20.7 && imc < 26.4) ? "Peso ideal" : "Acima do peso ideal";
         }
-
-        
     }
 }
