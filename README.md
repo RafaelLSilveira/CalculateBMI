@@ -30,7 +30,7 @@ This application do not necessary install because it is a simple code with study
 
 ## Author
 
-* **Rafael Silveira** - *One simple thing can change the World* - [GitHub](https://github.com/rafaelUrutu) - [Linkedin](https://www.linkedin.com/in/rafael-lopes-silveira-aa07209a/) - sepolrafael@gmail.com
+* **Rafael Silveira** - *One simple thing can change the World* - [GitHub](https://github.com/RafaelLSilveira) - [Linkedin](https://www.linkedin.com/in/rafael-lopes-silveira-aa07209a/) - sepolrafael@gmail.com
 
 ## License
 
